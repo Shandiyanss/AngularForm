@@ -58,3 +58,15 @@ Angular CLI does not come with an end-to-end testing framework by default. You c
 
 For more information on using the Angular CLI, including detailed command references, visit the [Angular CLI Overview and Command Reference](https://angular.dev/tools/cli) page.
 "# AngularForm" 
+
+![image](https://github.com/user-attachments/assets/4fa8c66c-c796-4f59-a626-6d5b7b9caf19)
+
+![image](https://github.com/user-attachments/assets/bcf78c17-ddee-4820-ac3e-a6df8b436863)
+
+![image](https://github.com/user-attachments/assets/cfd02741-91e6-4467-9445-523bff041610)
+
+![image](https://github.com/user-attachments/assets/833f9ff1-ca7b-403e-b603-88b5b9531bcb)
+
+
+
+
