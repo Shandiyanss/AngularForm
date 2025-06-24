@@ -1,0 +1,106 @@
+
+.container{
+   width:100%;
+   height: 100px;
+   margin:5px;
+}
+
+.header{
+    text-align: center;
+    padding:5px;
+
+}
+.row1{
+    display:grid;
+    grid-template-columns: 1fr 1fr 1fr;
+    padding:20px;
+    gap: 20px 40px; 
+    padding: 10px;
+    align-items: start;
+}
+.row1 input{
+    padding:10px;
+    height:15px;
+    background-color: rgb(249, 251, 252);
+    border-radius: 5px;
+    width:200px;
+
+}
+.form-control{
+    padding:10px;
+    height:40px;
+    background-color: rgb(249, 251, 252);
+    border: solid black 0.1em;
+    border-radius: 5px;
+    width:250px;
+} 
+
+.btn-submit{
+    margin:60px 50px 20px 600px;
+}
+button{
+    padding: 10px;
+    width: 20rem;
+    border-radius: 8px;
+    background-color: ghostwhite;
+    cursor: pointer;
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.salutation {
+    display: flex;
+    flex-direction: row;
+    position: relative;
+}
+.salutation .sal-dropdown select {
+    width: 50%;
+    position: absolute;
+    left:0px;
+    top:30px;
+}
+
+.priotype {
+    align-items: start;
+    gap: 0px;
+    margin-top: 0px;
+    padding:10px;
+    position:relative;
+
+    
+}
+.checkbox{
+    align-items: start;
+    padding:5px;
+    margin-left: 10px;
+    margin-right: 80px;
+    position: absolute;
+    left: 20px;
+    bottom:10px;
+
+}
+.HP{
+    padding:5px;
+    margin:130px;
+}
+.prio{
+    padding:10px;
+    position: absolute;
+    right:210px;
+}
+.mobile .text-muted {
+    font-size: small;
+    color:rgb(192, 192, 192);
+    font-weight: bold;
+}
+.text-danger {
+    color: red;
+    font-size: 0.8rem;
+    margin-top: 5px;
+    font-weight: 500;
+}
+.Important{
+    color:rgb(116, 189, 249);
+    font-weight: bold;
+    font-family:'Courier New', Courier, monospace
+}
+
